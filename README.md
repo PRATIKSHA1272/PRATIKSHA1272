@@ -3,7 +3,7 @@
 [![MasterHead](https://www.pinterest.com/pin/296815431701346492/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratiksha Thombare</h1>
 <h3 align="center">computer science student</h3>
-(img align="right" alt="Coding" width="400" src="https://stock.adobe.com/contributor/207678305/iuliia")
+(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/296815431701346492/")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1272&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1272" /> </p>
 
