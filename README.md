@@ -1,6 +1,5 @@
-### Hi there 👋
-[![MasterHead](https://www.pinterest.com/pin/296815431701346492/)](https://rishavchanda.io)
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Pratiksha Thombare</h1>
 <h3 align="center">computer science student</h3>
 
