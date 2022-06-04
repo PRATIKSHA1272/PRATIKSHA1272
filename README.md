@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Thombare</h1>
-<h3 align="center">
-[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%38408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)
-
+<h3 align="center">A Computer science Student
 </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1272&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1272" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **computer science**
@@ -33,6 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratiksha1272&show_icons=true&locale=en" alt="pratiksha1272" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksha1272&" alt="pratiksha1272" /></p>
-
-
-
