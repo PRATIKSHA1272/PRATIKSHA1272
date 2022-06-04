@@ -1,31 +1,44 @@
 
 
+<img align="center" src="https://github.com/KomalThoke/KomalThoke/bob/main/Image.png"></a>
+
 <h1 align="center">Hi 👋, I'm Pratiksha Thombare</h1>
-<h3 align="center">computer science student</h3>
+<h3 align="center">
+   
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%38408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)
 
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1272&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1272" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalthoke&label=Profile%20views&color=0e75b6&style=flat" alt="komalthoke" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **Data Science and Visualization**
 
 - 📫 How to reach me **pratikshathombare29@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think I am funny**
+
+
+
+<h3 align="left">About me:</h3>
+ 
+1.An enthusiastic fresher with highly motivated and leadership skills pursuing third year of Bachelors of engineering degree in Computer Engineering.<br>
+2.Eager to learn new technologies and methodologies.<br>
+3.Strong motivational and leadership skills.<br>
+4.Ability to work as individual as well as in group.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratiksha thombare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha thombare" height="30" width="40" /></a>
-<a href="https://kaggle.com/pratikshathombare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratikshathombare" height="30" width="40" /></a>
-<a href="https://instagram.com/pratikshathombare_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikshathombare_7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/komal thoke" target="blank"><img align="center" src="https://raw.githubusrcontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal thoke" height="30" width="40" /></a>
+ 
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksha1272&show_icons=true&locale=en&layout=compact" alt="pratiksha1272" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratiksha1272&show_icons=true&locale=en" alt="pratiksha1272" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalthoke&show_icons=true&locale=en&layout=compact" alt="komalthoke" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksha1272&" alt="pratiksha1272" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=komalthoke&show_icons=true&locale=en" alt="komalthoke" /></p>
+
