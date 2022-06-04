@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Thombare</h1>
-<h3 align="center">A Computer science Student
+<h3 align="center">
+
+
+   
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%38408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)
+
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha1272&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha1272" /> </p>
