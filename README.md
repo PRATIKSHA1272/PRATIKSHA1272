@@ -3,7 +3,7 @@
 
 
    
-[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%38408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%38408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)
 
 
 </h3>
